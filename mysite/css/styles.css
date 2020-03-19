@@ -21,7 +21,3 @@ h2 {
 .profileimage {
     border-radius: 100%;
 }
-
-.profileimage:hover {
-    color: #222831;
-}
